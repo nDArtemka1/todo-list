@@ -1,5 +1,5 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
-  publicPath: `/to-do-list/`,
+  publicPath: `/todo-list/`,
   transpileDependencies: true,
 });
