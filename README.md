@@ -1,7 +1,7 @@
 # ToDo-List
 Простое приложение для составления списка задач, созданное с помощью Vue3
 
-Смотреть демо : [Ссылка на ToDo-List](https://ndartemka1.github.io/to-do-list/)
+Смотреть демо : [Ссылка на ToDo-List](https://ndartemka1.github.io/todo-list/)
 
 ## Предварительный просмотр
 ![prev](/public/img/icons/prev.png)
