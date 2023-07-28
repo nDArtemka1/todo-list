@@ -6,6 +6,14 @@
 ## Предварительный просмотр
 ![prev](/public/img/prev.png)
 
+## Используемые технологии
+  + Vue3
+  + Vuex4
+  + Vue Router
+  + LocalStorage
+  + CSS
+
+
 ## Project setup
 ```
 npm install
